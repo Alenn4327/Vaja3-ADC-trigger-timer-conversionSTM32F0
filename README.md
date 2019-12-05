@@ -21,3 +21,4 @@ pa se nastavijo na isto frekvenco kot APB1 Timer clock.</p>
 
 <h3>Komentar</h3>
 <p>Težav nisva imela.</p>
+<p>Ustvarila Alen Džamastagić in Jan Juvan</p>
